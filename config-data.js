@@ -1,0 +1,457 @@
+window.__CONFIG = {
+  "business": {
+    "name": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA",
+    "short_name": "hotel-cabanas-del-parque-eventos-restaurante-hab-hasta-8-pas",
+    "tagline": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA - Misiones",
+    "description": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA, tu alojamiento ideal en Misiones.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "Misiones · Tronador 1011",
+    "title_line1": "Descubrí",
+    "title_em": "hotel-cabanas-del-parque-eventos-restaurante-hab-hasta-8-pas",
+    "title_line2": "",
+    "subtitle": "Un hostel con onda en Misiones, pensado para vos."
+  },
+  "location": {
+    "address": "Tronador 1011, N3360CPN Oberá, Misiones",
+    "district": "Misiones",
+    "city": "Misiones",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "Tronador 1011, N3360CPN Oberá, Misiones, Misiones",
+    "map_embed": "https://maps.google.com/maps?q=Tronador+1011%2C+N3360CPN+Ober%C3%A1%2C+Misiones%2C+Misiones&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "Misiones. A pasos de todo lo que necesitás.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5493755743717",
+    "phone": "+5493755743717",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/HOTEL+Caba%C3%B1as+del+Parque+%7C+EVENTOS+%7C+RESTAURANTE+%7C+HAB+hasta+8+pasajeros+%7C+PISCINA/data=!4m11!3m10!1s0x94f8f51e61a34ad5:0x8b773c7897257a43!5m3!1s2026-10-26!4m1!1i2!8m2!3d-27.4981322!4d-55.1108647!16s%2Fg%2F1tdh9ltt!19sChIJ1UqjYR71-JQRQ3oll3g8d4s?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/HOTEL+Caba%C3%B1as+del+Parque+%7C+EVENTOS+%7C+RESTAURANTE+%7C+HAB+hasta+8+pasajeros+%7C+PISCINA/data=!4m11!3m10!1s0x94f8f51e61a34ad5:0x8b773c7897257a43!5m3!1s2026-10-26!4m1!1i2!8m2!3d-27.4981322!4d-55.1108647!16s%2Fg%2F1tdh9ltt!19sChIJ1UqjYR71-JQRQ3oll3g8d4s?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA, todo lo que necesitás saber.",
+    "paragraphs": [
+      "Te damos la bienvenida a HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA, en el corazón de Misiones. Nuestro hostel tiene pileta, parrilla, cocina completa y espacios para relajarte. Somos un hostel chico con mucha onda, donde cada viajero es bienvenido."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "Mensajes rápidos, respuestas claras",
+    "Reservá directo con nosotros",
+    "Conocemos cada rincón de la zona"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Camas que invitan a quedarse",
+      "description": "Descansá bien para mañana seguir recorriendo.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "Internet rápido y gratis",
+      "description": "Para subir historias y mandar ubicación a los pingos.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "En el corazón de la zona",
+      "description": "Todo cerca, nada de gastar en taxis.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Diego F.",
+      "rating": 4,
+      "text": "Muy buena relación calidad-precio y una atención personalizada que no encontrás en otros lados."
+    },
+    {
+      "author": "Agustina L.",
+      "rating": 5,
+      "text": "La mejor elección de nuestro viaje. Todo impecable y la gente que atiende te hace sentir bienvenido."
+    },
+    {
+      "author": "Rocío B.",
+      "rating": 5,
+      "text": "Todo perfecto: la limpieza, la atención y las recomendaciones de la gente del lugar. Diez puntos."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Hay toallas?",
+      "answer": "Consultanos, generalmente tenemos para prestar."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Se puede fumar?",
+      "answer": "En los espacios al aire libre, sí. Adentro no."
+    },
+    {
+      "question": "¿Tienen WiFi?",
+      "answer": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA",
+    "copyright": "© 2026 HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA",
+        "short_name": "hotel-cabanas-del-parque-eventos-restaurante-hab-hasta-8-pas",
+        "tagline": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA - Accommodation",
+        "description": "Your base at HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA to explore Misiones.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "Misiones · Tronador 1011",
+        "title_line1": "Explore",
+        "title_em": "hotel-cabanas-del-parque-eventos-restaurante-hab-hasta-8-pas",
+        "title_line2": "from here",
+        "subtitle": "Rest, explore and experience Misiones from HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA."
+      },
+      "about": {
+        "eyebrow": "A bit about us",
+        "title": "Discover HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA.",
+        "paragraphs": [
+          "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA is your base in Misiones. Pool, BBQ, WiFi, kitchen and an ideal location to explore everything. We're a family hostel with all the vibes you need to travel easy."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "Misiones. Your starting point to explore."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "Is there WiFi?",
+          "answer": "Yep, free WiFi everywhere. Upload your stories without worry."
+        },
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "Is there a kitchen to use?",
+          "answer": "Yes, a full kitchen so you can cook whatever you want."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Fast messages, clear answers",
+        "Book directly with us",
+        "We know every corner of the area"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Emma L.",
+          "rating": 5,
+          "text": "Highly recommended. Feels like home away from home. We'll definitely be back."
+        },
+        {
+          "author": "David O.",
+          "rating": 5,
+          "text": "Excellent place to rest after a day out. Highly recommend, we'll be back for sure."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "James W.",
+          "rating": 5,
+          "text": "Traveling with friends and couldn't have picked a better place. Clean, comfy and welcoming."
+        }
+      ],
+      "footer": {
+        "description": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA",
+        "copyright": "© 2026 HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Hotel",
+        "name": "HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA",
+        "description": "Un hostel con onda en Misiones. Conocé HOTEL Cabañas del Parque | EVENTOS | RESTAURANTE | HAB hasta 8 pasajeros | PISCINA.",
+        "url": "",
+        "telephone": "+5493755743717",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/HOTEL+Caba%C3%B1as+del+Parque+%7C+EVENTOS+%7C+RESTAURANTE+%7C+HAB+hasta+8+pasajeros+%7C+PISCINA/data=!4m11!3m10!1s0x94f8f51e61a34ad5:0x8b773c7897257a43!5m3!1s2026-10-26!4m1!1i2!8m2!3d-27.4981322!4d-55.1108647!16s%2Fg%2F1tdh9ltt!19sChIJ1UqjYR71-JQRQ3oll3g8d4s?authuser=0&hl=es&g_ep=EgoyMDI2MTAyMC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Tronador 1011, N3360CPN Oberá, Misiones",
+          "addressLocality": "Misiones",
+          "addressCountry": "AR"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": -27.4975182,
+          "longitude": -55.1112823
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Camas que invitan a quedarse",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Internet rápido y gratis",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "En el corazón de la zona",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Hay toallas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Consultanos, generalmente tenemos para prestar."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Se puede fumar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En los espacios al aire libre, sí. Adentro no."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Tienen WiFi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, WiFi gratis en todo el lugar. Subí las fotos sin problema."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
