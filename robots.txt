@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hotel-cabanas-del-parque-eventos-restaurante-hab-hasta-8-pas.vercel.app/sitemap.xml
+Sitemap: https://hotel-cabanas-del-parque-eventos-re.vercel.app/sitemap.xml
